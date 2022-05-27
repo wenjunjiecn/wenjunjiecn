@@ -29,6 +29,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenjunjiecn&show_icons=true&theme=algolia)
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;What I'm doing now
 
 
