@@ -29,6 +29,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenjunjiecn&show_icons=true&theme=algolia)
 
-### 🤝🏻 &nbsp;What I'm doing now
-
+### 📋 &nbsp;What I'm doing now
+- Developing an IoT data visualization system for a Manchester company
+- Keep practicing Leetcode
 
