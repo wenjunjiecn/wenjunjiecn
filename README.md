@@ -32,4 +32,4 @@
 ### 📋 &nbsp;What I'm doing now
 - Developing an IoT data visualization system for a Manchester company
 - Keep practicing Leetcode
-
+- Preparing for the scrum master certificate exam
