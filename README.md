@@ -10,7 +10,10 @@
 ✉️ &nbsp;Email: <junjie.wen@outlook.com>\
 🌱 &nbsp;Code Page: [Leetcode](https://leetcode.cn/u/wenjunjie/)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/> -->
+### 🎵 &nbsp;The song I'm listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nxhig7f6aok7f3jhwmapueljiq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 ### 🛠 &nbsp;Tech Stack
 
