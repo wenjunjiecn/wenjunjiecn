@@ -10,7 +10,7 @@
 ✉️ &nbsp;Email: <junjie.wen@outlook.com>\
 🌱 &nbsp;Code Page: [Leetcode](https://leetcode.cn/u/wenjunjie/)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
