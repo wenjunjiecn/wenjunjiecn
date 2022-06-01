@@ -36,4 +36,4 @@
 - Preparing for the scrum master certificate exam
 
 ### 📝 &nbsp;Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/wenjunjie?ext=activity&site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/wenjunjie?site=cn)
