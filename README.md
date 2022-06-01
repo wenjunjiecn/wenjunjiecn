@@ -34,3 +34,6 @@
 - Developing an IoT data visualization system for a Manchester company
 - Keep practicing Leetcode
 - Preparing for the scrum master certificate exam
+
+### 📝 &nbsp;Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/wenjunjie?ext=activity&site=cn)
