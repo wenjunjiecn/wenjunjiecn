@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am interested in software development.\
-✍️ &nbsp;I am currently working on an IoT data visualization project for a Manchester company.\
+✍️ &nbsp;Working on my master project and dissertation.\
 🎓 &nbsp;Education: Master student at the [University of Manchester](https://www.manchester.ac.uk/).\
 📄 &nbsp;LinkedIn: [wenjunjie](https://www.linkedin.com/in/wenjunjie/)\
 💬 &nbsp;Wechat: [click here]().\
@@ -31,7 +31,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenjunjiecn&show_icons=true&theme=algolia)
 
 ### 📋 &nbsp;What I'm doing now
-- Developing an IoT data visualization system for a Manchester company
+- Working on my master project and dissertation.
 - Keep practicing Leetcode
 - Preparing for the scrum master certificate exam
 
