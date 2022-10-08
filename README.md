@@ -31,9 +31,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenjunjiecn&show_icons=true&theme=algolia)
 
 ### 📋 &nbsp;What I'm doing now
-- Working on my master project and dissertation.
 - Keep practicing Leetcode
 - Preparing for the scrum master certificate exam
+
+### 📖 &nbsp;What I'm reading
+- 流畅的Python
+- Redis的设计与实现 (Under Planning)
 
 ### 📝 &nbsp;Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/wenjunjie?site=cn)
